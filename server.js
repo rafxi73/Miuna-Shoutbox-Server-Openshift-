@@ -1,3 +1,4 @@
+var origin = 'online-gaming-world.com:80,www.online-gaming-world.com:80';
 var	port = process.env.OPENSHIFT_NODEJS_PORT,
 	ip = process.env.OPENSHIFT_NODEJS_IP;
 
